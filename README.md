@@ -29,4 +29,4 @@ Users can enter their queries in the graphical interface and program will catch 
 
 What I used for GUI is pyqt, which is a open source framework for creating GUI with Qt and get the designed interface in python codes. at the end I merged the queries program functions with GUI codes and it's ready to use.
 
-![2021-08-18-134908](/home/hakim/Documents/GitHub Update/Persian-Poem-Search-Engine/2021-08-18-134908.png)
+![2021-08-18-134908](./2021-08-18-134908.png)
