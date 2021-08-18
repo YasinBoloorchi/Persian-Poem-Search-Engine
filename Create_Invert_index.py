@@ -10,7 +10,7 @@ stop_words_file.close()
 
 
 # find all files that are in the given path
-datasets_path = '/home/hakim/Documents/semester 8/IR/HW_4/Data/Poems-final'
+datasets_path = './Data/Poems-final'
 all_addresses = []
 for root, dirs, files in walk(datasets_path):  
     all_addresses += [root+'/'+file for file in files]
